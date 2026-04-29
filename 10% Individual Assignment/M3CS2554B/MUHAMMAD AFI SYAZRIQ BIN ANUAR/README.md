@@ -7,7 +7,7 @@
 **Name:** Muhammad Afi Syazriq Bin Anuar  
 **Student ID:** 2024249492  
 **Lecturer:** Sir Shahadan Bin Saad  
-**Video Link:** 
+**Video Link:** https://youtu.be/GoumoxCvVyI
 
 ## 1.0 Project Title
 **A Concurrent and Parallel Architecture for Massive Data Hashing**
