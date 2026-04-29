@@ -13,6 +13,7 @@ This gives your assignment a perfect, logical flow from methodology, to performa
 **Name:** Muhammad Afi Syazriq Bin Anuar  
 **Student ID:** 2024249492  
 **Lecturer:** Sir Shahadan Bin Saad  
+**Video Link:** 
 
 ## 1.0 Project Title
 **A Concurrent and Parallel Architecture for Massive Data Hashing**
